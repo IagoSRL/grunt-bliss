@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "bliss": "~1.0.1",
+    "bliss": "git://github.com/cstivers78/bliss.git#54c7da14babc80b39734b771c539ac7ee07b1255",
     "html": "0.0.7"
   },
   "devDependencies": {
